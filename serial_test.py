@@ -1,3 +1,5 @@
+# just a bunch of test scripts i made
+
 # sends a bunch of commands to UART port
 import serial
 from math import cos,sin,pi
